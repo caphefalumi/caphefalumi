@@ -55,8 +55,3 @@
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ruby.svg" height="35" alt="ruby logo"  />
     </div>
 </div>
-
-<!---
-PancakesLmao/PancakesLmao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
