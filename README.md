@@ -19,8 +19,8 @@
 <div>
   <h2>Github Status</h2>
   <div <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caphefalumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=caphefalumi&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" height="150" alt="my_stats"  />
+    <img src="https://github-readme-stats.dangduytoan13l.workers.dev/api/top-langs?username=caphefalumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.dangduytoan13l.workers.dev/api?username=caphefalumi&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" height="150" alt="my_stats"  />
   </div>
 </div>
 
